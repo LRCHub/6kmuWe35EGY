@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Last Chance",
+  "base_artist": "소수빈",
+  "createdAt": "2026-01-11T07:19:48.032926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One More Last Chance",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/01_One_More_Last_Chance_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One More Last Chance (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/02_One_More_Last_Chance_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Last Chance",
+      "artist": "Nicki Minaj feat. Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/03_Last_Chance_Nicki_Minaj_feat._Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Chance (feat. Natasha Bedingfield)",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/04_Last_Chance_(feat._Natasha_Bedingfield)_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Chance Ft. Natasha Bedingfield",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/05_Last_Chance_Ft._Natasha_Bedingfield_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Last Chance",
+      "artist": "Lil B",
+      "has_synced": false,
+      "path": "select/06_My_Last_Chance_Lil_B.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Chance",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/07_Last_Chance_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Chance",
+      "artist": "Level 42",
+      "has_synced": true,
+      "path": "select/08_Last_Chance_Level_42.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Last Chance on the Stairway - 2009 Remaster",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/09_Last_Chance_on_the_Stairway_-_2009_Remaster_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Last Chance On The Stairway",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/10_Last_Chance_On_The_Stairway_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Chance On The Stairway (2009 Remastered Version)",
+      "artist": "Duran Duran",
+      "has_synced": true,
+      "path": "select/11_Last_Chance_On_The_Stairway_(2009_Remastered_Version)_Duran_Duran.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Chance on the Stairway - Manchester Square Demo",
+      "artist": "Duran Duran",
+      "has_synced": false,
+      "path": "select/12_Last_Chance_on_the_Stairway_-_Manchester_Square_Demo_Duran_Duran.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last Chance On The Stairway (Manchester Square Demo)",
+      "artist": "Duran Duran",
+      "has_synced": false,
+      "path": "select/13_Last_Chance_On_The_Stairway_(Manchester_Square_Demo)_Duran_Duran.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Last Chance To Evacuate Planet Earth Before It Is Recycled",
+      "artist": "Porcupine Tree",
+      "has_synced": false,
+      "path": "select/14_Last_Chance_To_Evacuate_Planet_Earth_Before_It_Is_Recycled_Porcupine_Tree.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Chance to Evacuate Planet Eart Before It Is Recycled",
+      "artist": "Porcupine Tree",
+      "has_synced": true,
+      "path": "select/15_Last_Chance_to_Evacuate_Planet_Eart_Before_It_Is_Recycled_Porcupine_Tree.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Last Chance",
+      "artist": "So Soo Bin",
+      "has_synced": false,
+      "path": "select/pl_01_Last_Chance_So_Soo_Bin.txt"
+    }
+  ]
+}
